@@ -1,0 +1,159 @@
+0
+---
+42
+---
+123045
+---
+00
+---
+01
+---
+007
+---
+123functionality
+---
+x
+---
+foo
+---
+a1_b2_c3
+---
+_hidden
+---
+my_var_1
+---
+abc123
+---
+if_var
+---
+integer
+---
+or
+---
+order
+---
+not
+---
+nothing
+---
+function
+---
+returns
+---
+while
+---
+if
+---
+else
+---
+assert
+---
+assume
+---
+invariant
+---
+length
+---
+(
+---
+)
+---
+[
+---
+]
+---
+{
+---
+}
+---
+,
+---
+;
+---
++
+---
+-
+---
+*
+---
+/
+---
+==
+---
+!=
+---
+<=
+---
+>=
+---
+<
+---
+>
+---
+=
+---
+->
+---
+x = 42
+---
+if (x >= 10)
+---
+a + b
+---
+x == y
+---
+x != y
+---
+x <= y
+---
+x >= y
+---
+x < y
+---
+x > y
+---
+a = b;
+---
+(a + b) * c
+---
+- x + y
+---
+a = 1; b = 2;
+---
+//
+---
+// comment
+---
+//comment
+x = 1
+---
+x = 1; // comment
+---
+// comment
+ b = 6;
+---
+function main() { returns 0; }
+---
+function main(a:int) returns r:int { r = a; }
+---
+if (x == 0) { y = 1; } else { y = 2; }
+---
+while (x != y) { x = x - 1; }
+---
+assert x > 0
+---
+assume x >= 0
+---
+invariant x > 0
+---
+int a = 5; // comment
+ b = 6;
+---
+int a = 5;
+int b = 6;
+---
+x = 42; // the answer
+---
+my_var_1 == _hidden
+---
+if (x >= 10) // test
