@@ -51,6 +51,6 @@ public enum TokenType {
 
     WS,
     COMMENT,
-
-    ERROR
+    ERROR,
+    EOF
 }
